@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gurpreetsbhachu/todoapp_reactjs/static/css/main.34cd4a75.chunk.css",
+    "main.js": "/gurpreetsbhachu/todoapp_reactjs/static/js/main.215f6631.chunk.js",
+    "main.js.map": "/gurpreetsbhachu/todoapp_reactjs/static/js/main.215f6631.chunk.js.map",
+    "runtime-main.js": "/gurpreetsbhachu/todoapp_reactjs/static/js/runtime-main.9d34da5d.js",
+    "runtime-main.js.map": "/gurpreetsbhachu/todoapp_reactjs/static/js/runtime-main.9d34da5d.js.map",
+    "static/js/2.ad5dea97.chunk.js": "/gurpreetsbhachu/todoapp_reactjs/static/js/2.ad5dea97.chunk.js",
+    "static/js/2.ad5dea97.chunk.js.map": "/gurpreetsbhachu/todoapp_reactjs/static/js/2.ad5dea97.chunk.js.map",
+    "index.html": "/gurpreetsbhachu/todoapp_reactjs/index.html",
+    "precache-manifest.cfc6d34af7124f259ec30ed44e2c2c38.js": "/gurpreetsbhachu/todoapp_reactjs/precache-manifest.cfc6d34af7124f259ec30ed44e2c2c38.js",
+    "service-worker.js": "/gurpreetsbhachu/todoapp_reactjs/service-worker.js",
+    "static/css/main.34cd4a75.chunk.css.map": "/gurpreetsbhachu/todoapp_reactjs/static/css/main.34cd4a75.chunk.css.map",
+    "static/js/2.ad5dea97.chunk.js.LICENSE.txt": "/gurpreetsbhachu/todoapp_reactjs/static/js/2.ad5dea97.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/gurpreetsbhachu/todoapp_reactjs/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d34da5d.js",
+    "static/js/2.ad5dea97.chunk.js",
+    "static/css/main.34cd4a75.chunk.css",
+    "static/js/main.215f6631.chunk.js"
+  ]
+}
